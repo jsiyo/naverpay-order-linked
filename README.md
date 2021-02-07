@@ -1,1 +1,1 @@
-# naverpay_order_linked
+# naverpay-order-linked
