@@ -1,6 +1,6 @@
 # naverpay-order-linked  
 네이버페이의 주문서 내역을 확인한다.
-## Configure
+### Configure
 ```php
 <?php
 
@@ -24,7 +24,7 @@ class NaverPay
     ...
 }
 ```
-## Usage
+### Usage
 ```php
 <?php
 $naverpay   = new NaverPay();
