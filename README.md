@@ -19,8 +19,20 @@
 ```php
 <?php
 
+use nhn\NhnApiSCL;
 
+class NaverPay
+{
+    /**
+     * License Issuance Settings
+     */
+    const ACCESS_KEY    = '0100010000c06f3f6c31b931b372a7fb008fde7fca3db207afd3de70e296a305ba453bd3d7';
+    const SECRET_KEY    = 'AQABAABKekOCXYMpFHH5ZTi/kEGxzTppMe/lZ3fDo6B4JoyHRQ==';
 
+    // 가맹점 아이디
+    const MALLID    = 'np_pdved060828';
+    ...
+```
 
 
 
