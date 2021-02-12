@@ -20,6 +20,8 @@
 require_once 'vendor/autoload.php';
 
 $naverpay   = new NaverPay();
+$naverpay->getChangedProductOrderList();  
+$naverpay->getProductOrderInfoList();
 ```
 
 
