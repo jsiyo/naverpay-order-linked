@@ -24,6 +24,8 @@ class NaverPay
     
     ...
 }
+
+$naverpay   = new NaverPay();
 ```
 
 ### PEAR
