@@ -1,6 +1,6 @@
 # naverpay-order-linked  
 
-### Configure
+## Configure
 ```php
 <?php
 
@@ -24,7 +24,7 @@ class NaverPay
     ...
 }
 ```
-### Usage
+## Usage
 ```php
 <?php
 $naverpay   = new NaverPay();
