@@ -15,25 +15,6 @@
 [PEAR Message Package](https://pear.php.net/package/Message) HMAC SHA256  
 
 ## Example
-#### Configure
-```php
-<?php
-
-use nhn\NhnApiSCL;
-
-class NaverPay
-{
-    /**
-     * License Issuance Settings
-     */
-    const ACCESS_KEY    = 'your-access-key';
-    const SECRET_KEY    = 'your-secret-key';
-
-    // 가맹점 아이디
-    const MALLID    = 'you-mall-id';
-    ...
-```
-#### Usage
 ```php
 <?php
 require_once 'vendor/autoload.php';
