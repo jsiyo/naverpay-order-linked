@@ -14,6 +14,11 @@
 ## Using Extension
 [PEAR Message Package](https://pear.php.net/package/Message) HMAC SHA256
 
+## Example
+```php
+<?php
+
+
 
 
 
