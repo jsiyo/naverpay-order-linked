@@ -1,5 +1,5 @@
 # naverpay-order-linked  
-네이버페이의 주문서 내역을 확인가능함
+네이버페이의 주문서 내역을 확인한다.
 ## Configure
 ```php
 <?php
