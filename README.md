@@ -20,7 +20,11 @@
 require_once 'vendor/autoload.php';
 
 $naverpay   = new NaverPay();
-// 변경 상품 주문 내역을 조회
+
+/**
+ * 변경 상품 주문 내역을 조회
+ * @param ISO 8601 date 시작
+ */
 $naverpay->getChangedProductOrderList();  
 $naverpay->getProductOrderInfoList();
 ```
