@@ -12,8 +12,8 @@
 `6) 실환경 적용(주문수집 및 주문테스트 진행)`  
 
 ## Using Extension
-[PEAR Message Package](https://pear.php.net/package/Message) HMAC SHA256
->> 너무 오래되어 일부를 수정하였다.
+[PEAR Message Package](https://pear.php.net/package/Message) HMAC SHA256  
+**`너무 오래되어 일부를 수정하였다.`**
 
 ## Example
 #### Configure
