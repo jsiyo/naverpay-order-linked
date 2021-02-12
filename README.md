@@ -23,15 +23,19 @@ $naverpay   = new NaverPay();
 
 /**
  * 변경 상품 주문 내역을 조회
- * @param ISO 8601 date 시작
+ * @param ISO 8601 date 시작, 종료일
  */
 $naverpay->getChangedProductOrderList();  
 
 /**
  * 특정 상품 주문에 대한 상세 내역을 조회
- *
+ * @param array 상품 주문 번호
  */
-$naverpay->getProductOrderInfoList();
+$naverpay->getProductOrderInfoList([
+  2021021351,
+  2021021312,
+  2021021364,
+]);
 ```
 
 
