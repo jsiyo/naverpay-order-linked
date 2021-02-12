@@ -11,7 +11,8 @@
 `5) Production(운영)환경 라이센스 발급`    
 `6) 실환경 적용(주문수집 및 주문테스트 진행)`  
 
-PEAR Message 패키지의 일부를 수정하여 사용하였다.
+## PEAR
+Message 패키지의 HMAC SHA256을 참조
 
 
 
