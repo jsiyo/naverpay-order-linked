@@ -21,13 +21,6 @@ class NaverPay
     public $service = 'MallService41';
     public $detail  = 'Full';
     public $version = '4.1';
-
-    /**
-     * SANDBOX/PRODUCTION
-     * SANDBOX: http://sandbox.api.naver.com/Checkout
-     * PRODUCTION: http://ec.api.naver.com/Checkout
-     */
-    private $uri = 'http://ec.api.naver.com/Checkout';
     
     ...
 }
