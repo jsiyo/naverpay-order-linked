@@ -33,7 +33,13 @@ class NaverPay
     const MALLID    = 'you-mall-id';
     ...
 ```
+#### Usage
+```php
+<?php
+require_once 'vendor/autoload.php';
 
+$naverpay   = new NaverPay();
+```
 
 
 
