@@ -8,7 +8,7 @@
 ```
 
 ## PEAR
-Message Package HAMC SHA256
+[Message](https://pear.php.net/package/Message) Package HAMC SHA256
 
 
 
