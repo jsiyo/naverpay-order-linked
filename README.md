@@ -20,6 +20,7 @@
 require_once 'vendor/autoload.php';
 
 $naverpay   = new NaverPay();
+// 변경 상품 주문 내역을 조회
 $naverpay->getChangedProductOrderList();  
 $naverpay->getProductOrderInfoList();
 ```
