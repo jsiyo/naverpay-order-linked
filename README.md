@@ -42,7 +42,7 @@ $naverpay->getProductOrderInfoList([
 ]);
 ```
 
-### PEAR
+## PEAR
 [Message](https://pear.php.net/package/Message) Package HAMC SHA256
 
 
