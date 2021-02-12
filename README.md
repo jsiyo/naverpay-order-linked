@@ -12,7 +12,7 @@
 `6) 실환경 적용(주문수집 및 주문테스트 진행)`  
 
 ## Using Extension
-PEAR\Message HMAC SHA256
+`PEAR\Message` HMAC SHA256
 
 
 
