@@ -12,11 +12,11 @@ class NaverPay
     /**
      * License Issuance Settings
      */
-    const ACCESS_KEY    = 'YOUR ACCESS KEY';
-    const SECRET_KEY    = 'YOUR SECRET KEY';
+    const ACCESS_KEY    = 'your-access-key';
+    const SECRET_KEY    = 'your-secret-key';
 
     // 가맹점 아이디
-    const MALLID    = 'YOUR ID';
+    const MALLID    = 'your-id';
 
     public $service = 'MallService41';
     public $detail  = 'Full';
