@@ -26,6 +26,11 @@ $naverpay   = new NaverPay();
  * @param ISO 8601 date 시작
  */
 $naverpay->getChangedProductOrderList();  
+
+/**
+ * 특정 상품 주문에 대한 상세 내역을 조회
+ *
+ */
 $naverpay->getProductOrderInfoList();
 ```
 
