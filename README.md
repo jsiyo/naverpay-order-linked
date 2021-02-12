@@ -12,7 +12,7 @@
 `6) 실환경 적용(주문수집 및 주문테스트 진행)`  
 
 ## Using Extension
-`PEAR Message Package` HMAC SHA256
+[PEAR Message Package](https://pear.php.net/package/Message) HMAC SHA256
 
 
 
