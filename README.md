@@ -13,7 +13,7 @@
 
 ## Using Extension
 [PEAR Message Package](https://pear.php.net/package/Message) HMAC SHA256  
-> ㅇㅇ
+
 ## Example
 ```php
 <?php
