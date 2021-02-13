@@ -11,9 +11,6 @@
 `5) Production(운영)환경 라이센스 발급`    
 `6) 실환경 적용(주문수집 및 주문테스트 진행)`
 
-> 자세한 내용은 레퍼런스 참고
-
-
 ## Using Extension
 [PEAR Message Package](https://pear.php.net/package/Message) HMAC SHA256  
 
